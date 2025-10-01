@@ -1,1 +1,4 @@
-.tetx.doc
+*.doc 
+bad.cpp
+
+
